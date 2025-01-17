@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: linear-gradient(to bottom right, #ff9aa2, #ffb7b2);
+  color: #fff;
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+button, input, textarea {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: #ff8fa3;
+  cursor: pointer;
+}
